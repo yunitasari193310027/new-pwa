@@ -1,0 +1,28 @@
+{
+    "name": "PORTAL SMA UII",
+    "short-name": "PORTAL",
+    "start_url": "./index.html",
+    "scope": "./:8000/", 
+    "display": "standalone",
+    "background_color": "#fff",
+    "theme_color": "#3A1AB1",
+    "description": "Aplikasi yang masih perlu dikembangkan dan dimatangkan",
+    "orientation": "portrait-primary",
+    "icons": [
+       {
+         "src": "fa/b.png",
+         "type": "image/png",
+         "size": "16x16"
+       },
+       {
+         "src": "fa/c.png",
+         "type": "image/png",
+         "size": "32x32"
+       },
+       {
+        "src": "fa/d.png",
+        "type": "image/png",
+        "size": "512x512"
+      }
+     ]
+  }
